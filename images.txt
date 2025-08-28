@@ -1,1 +1,2 @@
 nginx
+ghcr.io/ibm/mcp-context-forge:0.6.0
