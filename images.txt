@@ -4,3 +4,4 @@ ghcr.io/astral-sh/uv:bookworm-slim
 python:3.11-slim
 s0cke3t/jetbrainserverfinder:latest
 lanqian528/chat2api:latest
+containrrr/watchtower
