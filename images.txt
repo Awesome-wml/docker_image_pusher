@@ -5,3 +5,4 @@ python:3.11-slim
 s0cke3t/jetbrainserverfinder:latest
 lanqian528/chat2api:latest
 containrrr/watchtower
+xuxueli/xxl-job-admin:2.3.0
