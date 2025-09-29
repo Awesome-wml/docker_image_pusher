@@ -3,3 +3,4 @@ ghcr.io/ibm/mcp-context-forge:0.6.0
 ghcr.io/astral-sh/uv:bookworm-slim
 python:3.11-slim
 s0cke3t/jetbrainserverfinder:latest
+lanqian528/chat2api:latest
