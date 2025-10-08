@@ -6,3 +6,4 @@ s0cke3t/jetbrainserverfinder:latest
 lanqian528/chat2api:latest
 containrrr/watchtower
 xuxueli/xxl-job-admin:2.3.0
+whyour/qinglong:2.17.11
