@@ -7,3 +7,4 @@ lanqian528/chat2api:latest
 containrrr/watchtower
 xuxueli/xxl-job-admin:2.3.0
 whyour/qinglong:2.17.11
+nacos/nacos-server:latest
