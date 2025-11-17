@@ -1,2 +1,1 @@
-yunkunma/openvpn:latest
-yunkunma/openvpn-web:latest
+appleboy/drone-ssh
