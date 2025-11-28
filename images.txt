@@ -3,3 +3,4 @@ maven:3-jdk-8
 plugins/docker:20
 zc2638/drone-k8s-plugin
 node:14.15.0
+python:3.12-slim
