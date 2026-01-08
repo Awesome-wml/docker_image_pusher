@@ -1,11 +1,1 @@
-appleboy/drone-ssh
-maven:3-jdk-8
-plugins/docker:20
-zc2638/drone-k8s-plugin
-node:14.15.0
-python:3.12-slim
-robkaandorp/drone-portainer
-ghcr.io/dayuanjiang/next-ai-draw-io:latest
-docker.io/bitnami/zookeeper:3.8
-bitnami/kafka:3.2
 alpine:latest
