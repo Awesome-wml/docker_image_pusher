@@ -8,3 +8,4 @@ robkaandorp/drone-portainer
 ghcr.io/dayuanjiang/next-ai-draw-io:latest
 docker.io/bitnami/zookeeper:3.8
 bitnami/kafka:3.2
+alpine:latest
