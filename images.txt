@@ -1,1 +1,1 @@
-alpine/curl:latest
+bitnami/kafka:3.2
