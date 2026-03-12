@@ -1,1 +1,1 @@
-bitnami/kafka:3.2
+redis:7.2-alpine
