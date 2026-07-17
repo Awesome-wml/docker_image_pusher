@@ -1,1 +1,1 @@
-ghcr.io/james-6-23/codex2api:latest
+ghcr.io/resinat/resin:latest
