@@ -1,1 +1,1 @@
-ghcr.io/resinat/resin:v2.6.7
+ghcr.io/xxxxteam/codex-proxy:latest
