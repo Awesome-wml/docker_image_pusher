@@ -1,1 +1,1 @@
-ghcr.io/resinat/resin:latest
+ghcr.io/resinat/resin:2.6.7
