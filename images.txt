@@ -1,1 +1,1 @@
-ghcr.io/xxxxteam/codex-proxy:latest
+python:3.11-alpine
